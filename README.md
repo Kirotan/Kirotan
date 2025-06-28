@@ -39,19 +39,6 @@
 
 ---
 
-## 📈 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kirotan&show_icons=true&count_private=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirotan&layout=compact&theme=radical&hide=html" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kirotan&theme=react-dark" />
-</p>
-
----
-
 ## 🗣️ About me
 
 * 🔭 **Current focus**: building **Transcendence**, a multiplayer Pong game with AI and microservices (NestJS, React, Docker, Prometheus, Grafana).
