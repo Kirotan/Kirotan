@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kirotan 👋</h1>
+<h1 align="center">Hi, I'm Guillaume 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=F3F3F3&center=true&vCenter=true&width=600&lines=42-trained+Software+Engineer;C%2FC%2B%2B+%E2%80%A2+DevOps+%E2%80%A2+Docker+fan;Always+building,+always+learning" alt="Typing SVG" />
