@@ -29,11 +29,11 @@
 ## ✨ Featured projects
 
 <p align="center">
-  <a href="https://github.com/Kirotan/Transcendence">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kirotan&repo=Transcendence&theme=radical" />
+  <a href="https://github.com/Kirotan/Cub3d">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kirotan&repo=Cub3d&theme=radical" />
   </a>
-  <a href="https://github.com/Kirotan/libasm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kirotan&repo=libasm&theme=radical" />
+  <a href="https://github.com/Kirotan/Philosophers">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kirotan&repo=Philosophers&theme=radical" />
   </a>
 </p>
 
