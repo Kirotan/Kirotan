@@ -32,8 +32,8 @@
   <a href="https://github.com/Kirotan/Cub3d">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kirotan&repo=Cub3d&theme=radical" />
   </a>
-  <a href="https://github.com/Kirotan/Philosophers">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kirotan&repo=Philosophers&theme=radical" />
+  <a href="https://github.com/Kirotan/Inception">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kirotan&repo=Inception&theme=radical" />
   </a>
 </p>
 
