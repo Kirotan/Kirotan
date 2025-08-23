@@ -41,11 +41,9 @@
 
 ## 🗣️ About me
 
-* 🔭 **Current focus**: building **Transcendence**, a multiplayer Pong game with AI and microservices (NestJS, React, Docker, Prometheus, Grafana).
-* 🧠 **Learning path**: advanced system design, Kubernetes, Rust.
-* 🤝 **Collaboration**: open to interesting C/C++ or DevOps projects.
-* 💬 **Ask me about**: memory allocation (libasm/malloc), Docker networking, CI/CD, monitoring stacks.
-* ⚡ **Fun fact**: I once spent two days debugging an SPDX mis‑spell that broke Secure Boot on Ubuntu. Worth it.
+* 🔭 Current focus: Actively seeking an internship/apprenticeship to validate my RNCP Level 6 title.
+* 🧠 Learning path: Deepening DevOps (Kubernetes, Docker, CI/CD) and modern web (JavaScript).
+* 🤝 Collaboration: Open to interesting C/C++ or DevOps projects.
 
 ---
 
@@ -53,7 +51,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/guillaume-doumer-42gdoumer"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:kirotan@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:guillaume.doumer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <p align="center">
