@@ -52,7 +52,7 @@
 ## 📫 Reach me
 
 <p align="center">
-  <a href="https://linkedin.com/in/kirotan"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/guillaume-doumer-42gdoumer"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:kirotan@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
@@ -65,7 +65,6 @@
 <details>
   <summary>🎮 Fun side projects</summary>
   <ul>
-    <li><strong>Fish On Fire</strong> – a 2D OpenGL game where fish avoid mankind’s pollution (C++)</li>
-    <li><strong>Dalle‑cli</strong> – shell tool to generate images with DALL‑E (Python, OpenAI API)</li>
+    <li><strong>Proxmox Server</strong> – Set up a Proxmox server with a Debian Docker stack.</li>
   </ul>
 </details>
